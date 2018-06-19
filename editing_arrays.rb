@@ -13,8 +13,3 @@ def add_colors
 end
 
 
-puts "red"
-puts "light_red"
-puts "light_yellow"
-puts "green"
-puts "blue"
